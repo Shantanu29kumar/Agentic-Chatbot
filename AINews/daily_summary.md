@@ -1,0 +1,21 @@
+# Daily AI News Summary
+
+### 2026-05-05
+- [Citi has introduced a platform for AI agent rollout, allowing the company to build and scale AI agents across the business, with over 80% of its 180,000 employees using AI tools regularly](https://www.finextra.com/newsarticle/47692/citi-introduces-platform-for-ai-agent-rollout)
+- [Samsung has shut down its Messages app, and Apple has made changes to the iPhone after 15 years, in a significant development in the tech industry](https://www.forbes.com/sites/zakdoffman/2026/05/05/samsung-shuts-down-messages-apple-changes-iphone-after-15-years)
+- [Christian Terry, founder of N-Lite, discusses the company's upcoming project, Mfinda, and its potential impact on the tech industry](https://www.forbes.com/sites/olliebarder/2026/05/05/christiano-terry-on-founding-n-lite-and-the-upcoming-mfinda)
+- [Surging Japanese star Okamoto brings great value to the Toronto Blue Jays, according to a recent analysis](https://www.forbes.com/sites/berniepleskoff/2026/05/05/surging-japanese-star-okamoto--brings-great-value-to-toronto-blue-jays)
+
+### 2026-05-04
+- [The US Navy's largest supercarrier has departed the Middle East, marking a significant development in the region's military landscape](https://www.forbes.com/sites/petersuciu/2026/05/04/the-us-navys-largest-supercarrier-has-departed-the-middle-east)
+- [Ukraine's drone strikes have reached Moscow, threatening Putin's Victory Day parade, in a significant escalation of the conflict](https://www.forbes.com/sites/davidkirichenko/2026/05/04/ukraines-drone-strikes-reach-moscow-threaten-putins-victory-day-parade)
+- [Trump says the US will guide ships through the Strait of Hormuz, and an analyst weighs in on the potential consequences of this move](https://www.forbes.com/sites/forbestv/2026/05/04/trump-says-us-will-guide-ships-through-strait-of-hormuz--what-happens-next-analyst-weighs-in)
+- [The White House may review new AI models before they are released, according to a recent report, raising questions about the potential impact on the tech industry](https://www.forbes.com/sites/tylerroush/2026/05/04/white-house-may-review-new-ai-models-before-public-release-report-says)
+- [Home Depot's Orange Apron Media targets high-intent shoppers and pros, in a bid to expand its reach in the market](https://www.forbes.com/sites/sharonedelson/2026/05/04/home-depots-orange-apron-media-targets-high-intent-shoppers-and-pros)
+- [The Phillies' Preston Mattingly sends an urgency message on dad replacing Rob Thomson, in a significant development in the sports world](https://www.forbes.com/sites/peterchawaga/2026/05/04/phillies-preston-mattingly-sends-urgency-message-on-dad-replacing-rob-thomson)
+- [Disney's Star Wars is in a bad place, with one exception, according to a recent analysis](https://www.forbes.com/sites/paultassi/2026/05/04/this-may-the-fourth-disneys-star-wars-is-in-a-bad-place-with-one-exception)
+- [The White House considers government reviews for AI models, according to a recent report, raising questions about the potential impact on the tech industry](https://www.reuters.com/world/white-house-considers-vetting-ai-models-before-they-are-released-nyt-reports-2026-05-04)
+- [As Formula One evolves, AI becomes part of the race, with several teams and sponsors incorporating AI technology into their operations](https://www.reuters.com/technology/formula-one-evolves-ai-becomes-part-race-2026-05-04)
+- [Your AI strategy will fail if your culture rejects it, according to a recent commentary, highlighting the importance of cultural alignment in AI adoption](https://www.propertycasualty360.com/2026/05/04/your-ai-strategy-will-fail-if-your-culture-rejects-it)
+- [Five takeaways from Green Bay Packers' new DC Jonathan Gannon, in a significant development in the sports world](https://www.forbes.com/sites/robreischel/2026/05/04/5-takeaways-from-green-bay-packers-new-dc-jonathan-gannon)
+- [Meet 3 upcoming monster artificial intelligence (AI) IPOs that could soon join Meta, Tesla, and Broadcom in the $1 trillion club, according to a recent report](https://www.fool.com/investing/2026/05/04/meet-3-upcoming-monster-artificial-intelligence-ai)
