@@ -10,7 +10,13 @@ class LoadStreamlitUI:
 
     def load_streamlit_ui(self):
         st.set_page_config(page_title= "🤖 " + self.config.get_page_title(), layout="wide")
-        st.header("🤖 " + self.config.get_page_title())
+        title_text = "🤖 " + self.config.get_page_title()
+        left, center, right = st.columns([1, 2, 1])
+        with center:
+            st.markdown(
+                f"<h1 style='text-align:center; margin-bottom: 0.5rem;'>{title_text}</h1>",
+                unsafe_allow_html=True,
+            )
         st.session_state.timeframe = ''
         st.session_state.IsFetchButtonClicked = False
 
